@@ -4,7 +4,7 @@
 
 This repository contains some vanilla JavaScript projects taken from a YouTube challenge.
 
-In all cases, the goal was to build something that worked while respecting the given specifications. The style was not a priority. What mattered was to build something that worked on your own. Googling was authorized but the goal was not to simply copy/paste existing projects.
+In all cases, the goal is to build something that works while respecting the given specifications. The style is not a priority. While googling is authorized, doing a copy/paste of an existing project isn't.
 
 ## Source:
 
